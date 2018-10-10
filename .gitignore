@@ -1,0 +1,4 @@
+# ignore output and png files
+output/*
+*.png
+tmp.html
